@@ -1,0 +1,6 @@
+Functional Requirements.
+
+1. Message Detection.
+2. Spam Detection.
+3. User Tracking.
+4. Automatic Ban
